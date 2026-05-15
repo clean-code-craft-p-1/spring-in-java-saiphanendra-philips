@@ -8,7 +8,7 @@ to test functionality.
 
 Pre-requisites:
 
-- [Download JDK](https://www.oracle.com/java/technologies/downloads/#jdk26-windows)
+- [Download JDK](https://www.openlogic.com/openjdk-downloads)
 - [Download Maven](https://maven.apache.org/download.cgi#CurrentMaven)
 
 ## Pass the tests
